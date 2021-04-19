@@ -47,27 +47,4 @@ def scrape(n):
             break
 scrape("najibrazak")
 scrape("limguaneng.malaysia")
-#
-# scrape("Cars")
-    #
-    # for x in df.loc[0:10, 'Name']:
-    #     if x == n:
-    #         print("It's in the list")
-    #         break
-    #
-    #     else:
-    #         print("Not in the list")
 
-
-
-        
-
-# def scrape(n):
-#     for post in get_posts(n, pages=1):
-#         fb_post_url = post['post_url']
-#         print(fb_post_url)
-#         break
-
-
-
-#
